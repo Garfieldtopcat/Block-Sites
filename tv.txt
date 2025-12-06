@@ -1,2 +1,2 @@
-www.live.bbctvapps.co.uk
-www.bbc.co.uk
+bbctvapps.co.uk
+bbc.co.uk
